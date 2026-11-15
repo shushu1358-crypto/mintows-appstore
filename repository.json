@@ -1,0 +1,187 @@
+{
+  "format": "mintows-repository",
+  "version": 1,
+  "name": "Mintows Community Store",
+  "apps": [
+    {
+      "id": "mintows.html-editor-d1155b",
+      "name": "HTML Editor",
+      "version": "1.0.0",
+      "description": "HTML Editor アプリ",
+      "category": "Imported",
+      "package": "packages/html-editor-d1155b.mapp",
+      "sha256": "05235527c48c80f263b61392be40d2eb758104630e8a8e65db296abce2eaa77f",
+      "size": 25269
+    },
+    {
+      "id": "mintows.app-c99c16",
+      "name": "ペイント",
+      "version": "1.0.0",
+      "description": "ペイント アプリ",
+      "category": "Imported",
+      "package": "packages/app-c99c16.mapp",
+      "sha256": "c4c0e1f95685f405f01e82b3c5d8504090666a4fd53c56cb1c85566498f34022",
+      "size": 3230
+    },
+    {
+      "id": "mintows.url-e549de",
+      "name": "動画→URL変換",
+      "version": "1.0.0",
+      "description": "動画→URL変換 アプリ",
+      "category": "Imported",
+      "package": "packages/url-e549de.mapp",
+      "sha256": "92dffbe6bf2a61744eb079d68d296076f6b4998d215b210d5cc55df3a06ac3aa",
+      "size": 1030615
+    },
+    {
+      "id": "mintows.app-b8b3b8",
+      "name": "文字コード表",
+      "version": "1.0.0",
+      "description": "文字コード表 アプリ",
+      "category": "Imported",
+      "package": "packages/app-b8b3b8.mapp",
+      "sha256": "83faf68100266bffcaf78462f46ae21ae4642c73922c2f14d2a3c402b22eae42",
+      "size": 9042
+    },
+    {
+      "id": "mintows.pdf-278983",
+      "name": "PDFツール",
+      "version": "1.0.0",
+      "description": "PDFツール アプリ",
+      "category": "Imported",
+      "package": "packages/pdf-278983.mapp",
+      "sha256": "ad28b200832ef083df43c0aa356bb94a1038ab131bfaac678bb88a25d69ffe9e",
+      "size": 3580
+    },
+    {
+      "id": "mintows.url-ec13be",
+      "name": "動画→URLビューアー",
+      "version": "1.0.0",
+      "description": "動画→URLビューアー アプリ",
+      "category": "Imported",
+      "package": "packages/url-ec13be.mapp",
+      "sha256": "df9d5d6baa1b76712b66ac528e1efb82e457386fb0058821891787cfd0977c01",
+      "size": 1093554
+    },
+    {
+      "id": "mintows.app-b24f8f",
+      "name": "地震情報",
+      "version": "1.0.0",
+      "description": "地震情報 アプリ",
+      "category": "Imported",
+      "package": "packages/app-b24f8f.mapp",
+      "sha256": "72a9ad7a218f3f3b9a8a71b526373a99f7bb60aac9e84a1a8e5b957e81eb9d4d",
+      "size": 91914
+    },
+    {
+      "id": "mintows.app-7f43d5",
+      "name": "ファイル検索",
+      "version": "1.0.0",
+      "description": "ファイル検索 アプリ",
+      "category": "Imported",
+      "package": "packages/app-7f43d5.mapp",
+      "sha256": "c86de641713c7b85c0647ac824ca94f77164f4ac817cdc5895043b34e35917c4",
+      "size": 4692
+    },
+    {
+      "id": "mintows.water-rabbit-dbd13a",
+      "name": "Water-Rabbit",
+      "version": "1.0.0",
+      "description": "Water-Rabbit アプリ",
+      "category": "Imported",
+      "package": "packages/water-rabbit-dbd13a.mapp",
+      "sha256": "ba6b854d6cbb6e07178ee5841a8f79e77c7d858a7ebd593ce030062502e95b09",
+      "size": 4252
+    },
+    {
+      "id": "mintows.app-dbea5b",
+      "name": "ヴォイスメモ",
+      "version": "1.0.0",
+      "description": "ヴォイスメモ アプリ",
+      "category": "Imported",
+      "package": "packages/app-dbea5b.mapp",
+      "sha256": "142c12c034520d3791e2e8d93a03fff88d5a1a57bf403bd3ba028b858d8dae6b",
+      "size": 9009
+    },
+    {
+      "id": "mintows.youtube-player-71054c",
+      "name": "YouTube Player",
+      "version": "1.0.0",
+      "description": "YouTube Player アプリ",
+      "category": "Imported",
+      "package": "packages/youtube-player-71054c.mapp",
+      "sha256": "f7e98ca7fd0b309658d8b596caa683e15f8fb92636771853a4e4148eb6027a9e",
+      "size": 12368
+    },
+    {
+      "id": "mintows.app-a8b016",
+      "name": "電卓",
+      "version": "1.0.0",
+      "description": "電卓 アプリ",
+      "category": "Imported",
+      "package": "packages/app-a8b016.mapp",
+      "sha256": "ac5b032bff73aa8f2961e6c1d49b382a26fda02f0dfa9d530034f864b76a5d3e",
+      "size": 3044
+    },
+    {
+      "id": "mintows.ydm-8faf50",
+      "name": "YDM",
+      "version": "1.0.0",
+      "description": "YDM アプリ",
+      "category": "Imported",
+      "package": "packages/ydm-8faf50.mapp",
+      "sha256": "69d8f4097752e12087d552f528b7ff1885c40eab988d080d504abfb64d239d5d",
+      "size": 28971
+    },
+    {
+      "id": "mintows.yamato-drive-f70d3a",
+      "name": "Yamato Drive",
+      "version": "1.0.0",
+      "description": "Yamato Drive アプリ",
+      "category": "Imported",
+      "package": "packages/yamato-drive-f70d3a.mapp",
+      "sha256": "6f91df437c1903d2d4856192d67c7ef81089a02680549de9d9aa574b8a558e65",
+      "size": 1147403
+    },
+    {
+      "id": "mintows.ydm-9a0cb7",
+      "name": "YDM_プロトタイプ",
+      "version": "1.0.0",
+      "description": "YDM_プロトタイプ アプリ",
+      "category": "Imported",
+      "package": "packages/ydm-9a0cb7.mapp",
+      "sha256": "a3071ee7eec5c6647705dc18e05f87a0505d69d0c95260e876d411fbf7d9bde0",
+      "size": 8467
+    },
+    {
+      "id": "mintows.linux-25bd1b",
+      "name": "Linuxヘルプ",
+      "version": "1.0.0",
+      "description": "Linuxヘルプ アプリ",
+      "category": "Imported",
+      "package": "packages/linux-25bd1b.mapp",
+      "sha256": "f515820b2056c15193cc290d2ee174f8e0813822d31d0109e68b7702fdc51fbc",
+      "size": 2399
+    },
+    {
+      "id": "mintows.app-9144fb",
+      "name": "時計",
+      "version": "1.0.0",
+      "description": "時計 アプリ",
+      "category": "Imported",
+      "package": "packages/app-9144fb.mapp",
+      "sha256": "1d9ffbcb5002ba492d4e3092a5da4211b3348ecc96bc6834cd1cabe84d941333",
+      "size": 16276
+    },
+    {
+      "id": "mintows.app-b1c405",
+      "name": "ターミナルヘルプ",
+      "version": "1.0.0",
+      "description": "ターミナルヘルプ アプリ",
+      "category": "Imported",
+      "package": "packages/app-b1c405.mapp",
+      "sha256": "b19a069443f9de59d523889220705e558d751cd6405e93bf89c79bc98c20d293",
+      "size": 2065
+    }
+  ]
+}
