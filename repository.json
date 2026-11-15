@@ -136,12 +136,12 @@
     {
       "id": "mintows.yamato-drive-f70d3a",
       "name": "Yamato Drive",
-      "version": "1.0.0",
-      "description": "Yamato Drive アプリ",
+      "version": "1.0.1",
+      "description": "Yamato Drive アプリ（更新版）",
       "category": "Imported",
       "package": "packages/yamato-drive-f70d3a.mapp",
-      "sha256": "6f91df437c1903d2d4856192d67c7ef81089a02680549de9d9aa574b8a558e65",
-      "size": 1147403
+      "sha256": "7e28743952c2152214cb6e8561065210fa52420063128fe36d085ab0536e792d",
+      "size": 1147430
     },
     {
       "id": "mintows.ydm-9a0cb7",
